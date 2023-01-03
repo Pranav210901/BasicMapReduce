@@ -1,5 +1,3 @@
-Team Member Names: Pranav Pokhrel, Ty Nguyen
-X500s: pokhr013, nguy3976
 
 The purpose of mapping and reducing for our program is to get divide the test input file into segments (<key,value> pairs), arrange the order of these pairs and sort them based on their key values.
 
@@ -22,7 +20,3 @@ reduce.c:
     - Counts the number of repititions of 'word' in word.txt by searching for 1's
     - Inserts them into a node of finalKeyValueDS
     - writeFinalDS() writes them out to output/ReduceOut/Reduce_reducerID.txt
-
-Mapper - Ty
-Reducer - Pranav
-We helped each other wherever we encountered errors
